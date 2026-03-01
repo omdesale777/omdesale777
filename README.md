@@ -35,7 +35,7 @@ Currently deepening my foundations in **networking, operating systems, log analy
 |---|---|---|
 | **AI-Powered Log Analyzer** | FastAPI + regex tool for brute-force detection, anomaly identification, and suspicious IP analysis from system/server logs | 🟢 Active |
 | **ThreatMorph** | GenAI-powered multi-domain threat simulation platform with automated mitigation recommendations | 🟡 In Progress |
-| **CTF7 Internship** | Security Engineering role — building and testing real-world security scenarios | 🟢 Active |
+| **AirPing** | Authenticated sound-based devices can operate without Bluetooth or internet connectivity. This is an offline acoustic command channel designed for trusted device recovery. | 🟡 In Progress |
 
 ---
 
