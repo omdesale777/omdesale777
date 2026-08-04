@@ -13,8 +13,8 @@
 │  $ whoami                                                        │
 │  > DevOps Engineer @deboistech                                   │
 │  > Security Engineer                                             │
-│  > Computer Engineering Student — Nashik, India                  │
-│  > Focus : SecOps · Detection Engineering · AI Security          │
+│  > Computer Engineering Undergrad — Nashik, India                │
+│  > Focus : CloudOps · Detection Engineering · AI Security        │
 │  > Goal  : Threat detection and security automation at scale     │
 └──────────────────────────────────────────────────────────────────┘
 ```
