@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d2e&height=160&section=header&text=Om%20Desale&fontSize=48&fontColor=39ff14&fontAlignY=40&desc=Security%20Engineering%20Intern%20%7C%20Aspiring%20SecOps%20Engineer&descSize=15&descAlignY=62&descColor=7fffb0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d2e&height=160&section=header&text=Om%20Desale&fontSize=48&fontColor=39ff14&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Security%20Researcher&descSize=15&descAlignY=62&descColor=7fffb0" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=Detection+Engineering+%7C+Threat+Analysis;AI-Powered+Security+Tooling;Log+Analysis+%7C+SIEM+%7C+Threat+Simulation;Building+Defenses.+Breaking+Assumptions.)](https://git.io/typing-svg)
 
